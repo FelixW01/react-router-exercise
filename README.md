@@ -1,15 +1,12 @@
 # React Router Exercise
 
 ## Description
+A simple React application designed to reinforce React Router concepts. Users can navigate between different color-themed pages, dynamically changing the background based on the selected route. This project was created to practice route handling, event-driven UI updates, and component interaction.
 
 ## Table of Contents
-- [App Demo](#app-demo)
 - [Installation](#installation)
 - [Contributing](#contributing)
 - [Questions](#questions)
-
-## App Demo
-
 
 
 ## Installation
